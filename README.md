@@ -1,6 +1,7 @@
 
-Hello, 'the' world... 👀<br><br>
-I’m interested in compiler design and high profile project developments...
+Hello, world...<br><br>
+I'm the new lambda kid in town  👀<br><br>
+and I’m interested in challenging compiler designs and high profile project developments...
 
 
 <!---
